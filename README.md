@@ -1,2 +1,6 @@
 # Prueba
-:)
+# Título
+## Subtítulo
+
+*Texto*
+**:)**
